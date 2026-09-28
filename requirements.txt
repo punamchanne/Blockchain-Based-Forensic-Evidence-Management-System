@@ -1,0 +1,5 @@
+Node.js v18+
+MongoDB v4.4+ (Local or Atlas)
+Metamask Browser Extension
+Hardhat (for Blockchain)
+NPM or Yarn Package Manager
